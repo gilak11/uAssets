@@ -147,6 +147,9 @@ berliner-zeitung.de##[class^="outbrain"]
 @@||scdn.cxense.com/cx.cce.js$script,domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|echo-online.de|lampertheimer-zeitung.de|lauterbacher-anzeiger.de|main-spitze.de|oberhessische-zeitung.de|wiesbadener-kurier.de|wormser-zeitung.de
 @@||api.cxense.com/public/widget/data$xhr,domain=allgemeine-zeitung.de|buerstaedter-zeitung.de|echo-online.de|lampertheimer-zeitung.de|lauterbacher-anzeiger.de|main-spitze.de|oberhessische-zeitung.de|wiesbadener-kurier.de|wormser-zeitung.de
 
+! Jun 22, 2024 https://watch.livecricketsl.xyz
+watch.livecricketsl.xyz##h3
+
 ! Yavli ads
 *.jpg$script,domain=allthingsvegas.com|clashdaily.com|madworldnews.com|politicalcowboy.com|reviveusa.com|sonsoflibertymedia.com|teltarif.de|themattwalshblog.com|videogamesblogger.com
 ! https://www.reddit.com/r/uBlockOrigin/comments/12hq3us/
